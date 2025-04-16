@@ -1,12 +1,26 @@
-<h1 align="center">Hi 👋, I'm Shah Harsh</h1>
-<h3 align="center">Aspiring DevOps Engineer</h3>
+# Hi there, I'm Harsh Shah 👋
 
-- 🌱 I’m currently learning **Learning Cloud, Automation, and CI/CD**
+## About Me
+I am an **Aspiring DevOps Engineer** with a strong passion for **Linux**, **AWS**, **Terraform**, **Docker**, and **Automation**. I’m currently exploring the world of DevOps and cloud technologies, focusing on improving my skills and building real-world projects. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shah harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah harsh" height="30" width="40" /></a>
-</p>
+I'm constantly learning and building to improve my knowledge in **cloud infrastructure, automation, and system-level management**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+## 🚀 Skills & Technologies
+- **AWS** (EC2, S3, Security Groups, etc.)
+- **Docker** & **Kubernetes**
+- **Terraform**
+- **Linux** (File System, Permissions, Process Management, Networking)
+- **Ansible** (Automation)
+- **CI/CD Pipelines** (Jenkins, GitLab)
+- **Git** & **GitHub** for version control
+
+## 📚 What I'm Currently Learning
+- **Cloud Security** (AWS Security Specialist)
+- **Advanced DevOps Tools** (Grafana, Prometheus)
+- **Infrastructure as Code** (IaC) using Terraform
+
+## 🔗 Connect With Me
+- **LinkedIn:** [Harsh Shah](https://www.linkedin.com/in/shah-harsh-2a98a22/)
+- **GitHub:** [@HarshShah2025](https://github.com/harshshah2025)
+
+Feel free to check out my repositories for **Linux**, **DevOps**, and **Cloud** related projects!
